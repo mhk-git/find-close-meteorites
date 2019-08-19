@@ -7,6 +7,6 @@ Requires python3 and requests package.
 First install pipenv and then:
 '''
 pipenv install
-pipenv run "python find_meteors.py"
+pipenv run "python meteors/find_meteors.py"
 '''
 
