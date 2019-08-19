@@ -1,6 +1,12 @@
 # find-close-meteorites
 Using python and nasa data to find meteor landing sites
 
-# Running
-This project requires python3 and requests package.
-`python2 find_meteor.py`
+#Running
+Requires python3 and requests package.
+
+First install pipenv and then:
+'''
+pipenv install
+pipenv run "python find_meteors.py"
+'''
+
